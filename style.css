@@ -1,0 +1,93 @@
+.carousel-caption h5,p{
+    color: black;
+    font-weight: bold;
+}
+.second_page{
+    margin-top: 50px;
+}
+.center-text{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.city-two{
+    margin-top: 40px;
+}
+.second-row{
+    margin-top: 50px;
+}
+.content-aboutus{
+    margin-top: 70px;
+}
+.card{
+    text-align: center;
+    margin: auto;
+}
+.design-info{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    display: flex;
+    gap: 20px;
+}
+.project-div{
+    text-align: center;
+    margin: 50px auto;
+}
+.project-div h2{
+    margin-top: 30px;
+}
+.project-text{
+    width: 300px;
+    text-align: center;
+    margin: auto;
+}
+        .checked{
+            text-decoration: line-through;
+            background-color: silver;
+        
+        }
+.todo h1{
+    width: 900px;
+}
+.todo{
+    margin-top: 50px;
+}
+.todo_func{
+    margin-top: 40px;
+    
+}
+.time{
+    width: 300px;
+    height: 50px;
+    font-size: large;
+}
+.countdown{
+    display: flex;
+    font-size: 40px;
+    display: none;
+    
+}
+.time-results{
+    padding-left: 30px;
+    font-size:medium;
+    padding-top: 20px;
+    color: blue;
+}
+.countdown-timer{
+    margin-top: 50px;
+}
+.modalWindow {
+    width: 300px;
+    height: 250px;
+    background-color: bisque;
+    border-radius: 20px;
+    padding: 20px;
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+.textError{
+    color: red;
+}
+  
